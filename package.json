@@ -1,0 +1,19 @@
+{
+  "name": "vidtube-backend",
+  "version": "1.0.0",
+  "description": "A backend app like youtube",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "youtube"
+  ],
+  "author": "Deep Shekhar Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
